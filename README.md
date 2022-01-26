@@ -8,6 +8,7 @@ This repository is for showing how Git and GitHub work
 - additional text
 - add line for an example
 - additional changes
+- just for a branch
 
 ## Purpose
 
